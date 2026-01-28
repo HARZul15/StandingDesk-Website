@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "name": "Fezbio desk", 
+        "price": 200,
+        "image": "prodesk2.png"
+    } ,
+    {
+        "id": 2,
+        "name": "Fezbio desk", 
+        "price": 450,
+        "image": "prodesk5.png"
+    } ,
+    {
+        "id": 3,
+        "name": "noland", 
+        "price": 600,
+        "image": "newdesk3.png"
+    } ,
+    {
+        "id": 4,
+        "name": "desk", 
+        "price": 400,
+        "image": "prodesk6.png"
+    } ,
+    {
+        "id": 5,
+        "name": "desk", 
+        "price": 400,
+        "image": "prodesk7.png"
+    } ,
+    {
+        "id": 6,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk.png"
+    } 
+    ,
+    {
+        "id": 7,
+        "name": "desk", 
+        "price": 400,
+        "image": "prodesk4.png"
+    }
+    ,
+    {
+        "id": 8,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk2.png"
+    }
+    ,
+    {
+        "id": 9,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk2.png"
+    }
+    ,
+    {
+        "id": 10,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk2.png"
+    }
+    ,
+    {
+        "id": 11,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk2.png"
+    }
+    ,
+    {
+        "id": 12,
+        "name": "desk", 
+        "price": 400,
+        "image": "newdesk2.png"
+    }
+        
+]
